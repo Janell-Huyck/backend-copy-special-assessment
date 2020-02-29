@@ -1,3 +1,5 @@
 .vscode/
 *.pyc
 *.zip
+/testing_to_dir
+/testing_to_zip
